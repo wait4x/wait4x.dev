@@ -16,17 +16,17 @@ domainTLD = "wait4x.dev"
 titleHome = "Wait4X"
 
 ## Twitter Cards
-twitterSite = "@atkrad"
-twitterCreator = "@atkrad"
+twitterSite = "@wait4x"
+twitterCreator = "@wait4x"
 
 ## JSON-LD
 schemaType = "Person"
 # schemaType = "Organization"
 schemaName = "Wait4X"
 schemaAuthor = "Mohammad Abdolirad"
-schemaAuthorTwitter = "https://twitter.com/atkrad"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/atkrad/"
-schemaAuthorGitHub = "https://github.com/atkrad"
+schemaAuthorTwitter = "https://twitter.com/wait4x"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/wait4x/"
+schemaAuthorGitHub = "https://github.com/wait4x"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -34,9 +34,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/atkrad"
+schemaTwitter = "https://twitter.com/wait4x"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/atkrad/wait4x"
+schemaGitHub = "https://github.com/wait4x/wait4x"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -80,7 +80,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/atkrad/wait4x.dev"
+docsRepo = "https://github.com/wait4x/wait4x.dev"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = true
